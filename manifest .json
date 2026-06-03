@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "smatibabu website",
+  "name": "Shealth",
   "orientation": "any",
   "scope": "/",
-  "short_name": "smatibabu",
+  "short_name": "Spein",
   "start_url": "/",
   "theme_color": "#2563eb",
   "icons": [
@@ -23,5 +23,6 @@
       "is192x192": false
     }
   ],
-  "description": "Welcom in smatibabu app. Created by spein"
+  "id": "Spein",
+  "description": "Welcom in our app"
 }
