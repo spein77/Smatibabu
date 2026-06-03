@@ -1,0 +1,34 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Medical AI Assistant",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Medical AI",
+  "start_url": "/",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2785/2785482.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 512,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "medical-ai-assistant",
+  "description": "AI Medical Assistant helps users get health information, medicine guidance, symptom checking, voice interaction, and medical support anytime.",
+  "lang": "sw",
+  "categories": [
+    "health",
+    "health &amp; fitness",
+    "medical"
+  ]
+}
