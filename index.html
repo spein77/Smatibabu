@@ -352,19 +352,7 @@ font-weight:bold;
 color:red;
 
 }
-<!-- ADS SECTION -->
 
-<div class="ad-box">
-
-<p>
-📢 Sponsored Ads
-</p>
-
-<img
-src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=1200&auto=format&fit=crop"
-width="100%">
-
-</div>
 .app-footer{
 
 text-align:center;
@@ -399,11 +387,28 @@ margin-top:10px;
 }
 
 </style>
-  <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#00c853">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2563eb">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Medical AI">
 </head>
 
 <body>
+  <!-- ADS SECTION -->
+
+<div class="ad-box">
+
+<p>
+📢 Sponsored Ads
+</p>
+
+<img
+src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=1200&auto=format&fit=crop"
+width="100%">
+
+</div>
 
 <!-- SPLASH SCREEN -->
 
@@ -421,7 +426,7 @@ margin-top:10px;
 
 <div class="top-bar">
 
-<h2>🩺 SMATIBABU</h2>
+<h2>🩺 AI MEDICAL ASSISTANT</h2>
 
 <div>
 
@@ -449,7 +454,7 @@ LOGOUT
 </h1>
 
 <p class="subtitle">
-SMATIBABU 
+Smart AI Healthcare System
 </p>
 
 <input type="email"
@@ -928,11 +933,6 @@ navigator.serviceWorker.register('service-worker.js');
 }
 
 </script>
-  
-<script>
-if ('serviceWorker' in navigator) {
-navigator.serviceWorker.register('./service-worker.js');
-}
-</script>
+
 </body>
-</html>
+  </html>
