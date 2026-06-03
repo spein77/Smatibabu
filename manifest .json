@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "https://spein77.github.io/Smatibabu/",
+  "name": "smatibabu website",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Spein",
+  "short_name": "smatibabu",
   "start_url": "/",
   "theme_color": "#2563eb",
   "icons": [
