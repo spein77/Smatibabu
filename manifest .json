@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "dir": "ltr",
+  "dir": "auto",
   "display": "standalone",
   "name": "Shealth",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "Spein",
-  "start_url": "/",
+  "scope": "https://spein77.github.io/Smatibabu/",
+  "short_name": "Smatibabu",
+  "start_url": "https://spein77.github.io/Smatibabu/",
   "theme_color": "#2563eb",
   "icons": [
     {
@@ -23,6 +23,23 @@
       "is192x192": false
     }
   ],
-  "id": "Spein",
-  "description": "Welcom in our app"
+  "description": "Welcom in smatibabu app to injoy",
+  "lang": "sw",
+  "related_applications": [
+    {
+      "platform": "chrome_web_store",
+      "url": "https://spein77.github.io/Smatibabu/",
+      "id": ""
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "MATIBABU",
+      "url": "https://spein77.github.io/Smatibabu/",
+      "description": "Welcome"
+    }
+  ],
+  "categories": [
+    "medical"
+  ]
 }
