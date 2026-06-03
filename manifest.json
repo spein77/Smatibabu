@@ -9,12 +9,12 @@
   "icons": [
     {
       "src": "IMG-20260601-WA0001.jpg",
-      "sizes": "816×1440",
+      "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
       "src": "IMG-20260601-WA0001.jpg",
-      "sizes": "816×1440",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
